@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\logitpe21\MoreStrings\ACharCounter\bin\Debug\netcoreapp3.1\ACharCounter.exe
+C:\Users\opilane\source\repos\logitpe21\MoreStrings\ACharCounter\bin\Debug\netcoreapp3.1\ACharCounter.deps.json
+C:\Users\opilane\source\repos\logitpe21\MoreStrings\ACharCounter\bin\Debug\netcoreapp3.1\ACharCounter.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\MoreStrings\ACharCounter\bin\Debug\netcoreapp3.1\ACharCounter.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\MoreStrings\ACharCounter\bin\Debug\netcoreapp3.1\ACharCounter.dll
+C:\Users\opilane\source\repos\logitpe21\MoreStrings\ACharCounter\bin\Debug\netcoreapp3.1\ACharCounter.pdb
+C:\Users\opilane\source\repos\logitpe21\MoreStrings\ACharCounter\obj\Debug\netcoreapp3.1\ACharCounter.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\logitpe21\MoreStrings\ACharCounter\obj\Debug\netcoreapp3.1\ACharCounter.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\MoreStrings\ACharCounter\obj\Debug\netcoreapp3.1\ACharCounter.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\MoreStrings\ACharCounter\obj\Debug\netcoreapp3.1\ACharCounter.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\MoreStrings\ACharCounter\obj\Debug\netcoreapp3.1\ACharCounter.dll
+C:\Users\opilane\source\repos\logitpe21\MoreStrings\ACharCounter\obj\Debug\netcoreapp3.1\ACharCounter.pdb
+C:\Users\opilane\source\repos\logitpe21\MoreStrings\ACharCounter\obj\Debug\netcoreapp3.1\ACharCounter.genruntimeconfig.cache
